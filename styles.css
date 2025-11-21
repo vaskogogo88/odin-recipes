@@ -1,4 +1,47 @@
 body {
     background-color: white;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 16px;
 }
 
+.central {
+    background-color: lightgrey;
+    margin: 40px 200px;
+}
+
+img {
+    display: block;
+    height: 150px;
+    width: 150px;
+    margin: 0 auto 20px;
+
+}
+
+.title {
+    font-size: 42px;
+    margin: 30px auto 15px;
+    text-align: center;
+    padding: 30px 0;
+}
+
+h2 {
+    padding: 16px;
+    margin: 0;
+}
+
+.description-paragraph {
+    padding: 8px 16px;
+    margin: 0;
+}
+
+span {
+    color: blue;
+}
+
+.link-to-home {
+    display: inline-block;
+    color: black;
+    padding-left: 16px;
+    padding-bottom: 8px;
+
+}
